@@ -1,0 +1,10 @@
+{
+    "update_available": true,
+    "files": [
+        "https://raw.githubusercontent.com/zwpseudo/WatViz-pyds/main/keyauth.cp38-win_amd64.pyd",
+        "https://raw.githubusercontent.com/zwpseudo/WatViz-pyds/main/modules.bat",
+        "https://raw.githubusercontent.com/zwpseudo/WatViz-pyds/main/Madden25Auction.cp38-win_amd64.pyd",
+        "https://raw.githubusercontent.com/zwpseudo/WatViz-pyds/main/logo.png"
+       
+    ]
+}
